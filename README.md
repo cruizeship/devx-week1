@@ -76,6 +76,14 @@ CSS styling: add margins, color scheme, fonts, etc.
   text-align: left;
   font-size: 20px;
 }
+
+```
+What are some other CSS properties?
+```
+border-style: solid;
+border-color: blue;
+margin-left: auto;
+margin-right: auto;
 ```
 
 ## Delete Task
