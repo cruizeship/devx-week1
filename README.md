@@ -1,9 +1,18 @@
 # Code Snippets
 
-## Getting started
+## Getting started (for node version 20 and below)
 ```html
 npx create-react-app todo-app
 cd todo-app
+npm start
+```
+
+## Getting started (for node version 21 and up)
+Download https://github.com/cruizeship/devx-react-template and unzip
+```html
+cd downloads (or wherever you downloaded it to)
+cd devx-react-template-main
+npm install
 npm start
 ```
 
